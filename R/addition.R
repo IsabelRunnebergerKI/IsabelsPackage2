@@ -5,6 +5,7 @@
 #'
 #' @examples x + y = 5
 #'
+#' @export
 
 addition <- function (x = 4, y = 1) {
   x + y
